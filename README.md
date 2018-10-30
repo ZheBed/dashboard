@@ -2,6 +2,14 @@
 
 Dashboard is an app on which you can log in and have access to 4 services which have widgets. The database on which the data are sent is MongoDB. The frontend is in AngularJS(html/css/javascript) and Bootstrap,  the backend is in NodeJS(Javascript).
 
+### Run
+
+```
+npm install
+npm run build
+npm run docker
+```
+
 # Widgets
 All the folowing widget has a custom name a creation date and a refresh timer on which the widgets refresh his data
 
